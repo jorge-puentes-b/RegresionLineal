@@ -8,8 +8,9 @@ Este repositorio contiene un notebook de Python que contiene un modelo de regres
 ## Cómo ejecutar el notebook en Google Colab
 
 1. En el repositorio se encuentra un archivo con el nombre de RegresiónLineal.ipynb el cual de manera dandole un click redirige el proyecto en Colab
+   o con el siguiente link lo habre directamente [Abrir en Google Colab](https://colab.research.google.com/drive/1IWWhNCiiMJTNKSaT9n8ytPaJaM1q27VP)
 
-2. Una vez en Colab, asegúrarse de ejecutar todas las celdas del notebook para completar el análisis.
+3. Una vez en Colab, asegúrarse de ejecutar todas las celdas del notebook para completar el análisis.
 
 ## Requisitos
 En Colab asegurarse de tener instaladas las siguientes librerías:
